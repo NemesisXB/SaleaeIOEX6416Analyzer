@@ -1,0 +1,13 @@
+{
+  "name": "IOEX6416",
+  "apiVersion": "1.0.0",
+  "author": "NemesisXB",
+  "version": "1.0.0",
+  "description": "Decodes PCAL6416|PI4IOE5V6416|TCA6416 I2C traffic.",
+  "extensions": {
+    "IOEX6416": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "IOEX6416.IOEX6416"
+    }
+  }
+}
